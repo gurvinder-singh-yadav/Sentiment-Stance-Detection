@@ -72,8 +72,9 @@ col1, col2 = st.columns(2)
 tweet = st.selectbox(
     "Predict Sentiment & Stance",
     ["Climate Change is a hoax",
-     "There is not global warming",
-     "Scientists suggest that earth is warming up every consecutive year"
+     "Scientists suggest that earth is warming up every consecutive year",
+     "thermometer in world's coldest village break temperature plunge minus 62 celsius climate change is real",
+     "We need renewable energy to save earth"
      ]
 )
 
