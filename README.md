@@ -7,9 +7,15 @@ conda create -n nlp -f environment.yaml
 ```
 
 ## Run
+Local Mode
 ```
 streamlit run app.py
 ```
+Deployment Mode
+```
+streamlit run app.py --server.port=8001
+```
+
 
 ## Model Architecture
 
