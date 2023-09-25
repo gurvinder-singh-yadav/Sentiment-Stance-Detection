@@ -1,6 +1,9 @@
 # Sentiment Stance Detection
 The following project contains code and demo of CS455 course where we have prepared a sentiment and stance prediction models respectively to effectively analyse the standing and emotion of the person on Climate Change Data
 
+## App Demo
+![Demo File Not Found](assets/Demo.png "Demo Application")
+
 ## Evironment Setup
 ```
 conda create -n nlp -f environment.yaml
